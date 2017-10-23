@@ -1,0 +1,48 @@
+body {
+	width: 800px;
+	height: 500px;
+	font-size: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 90px;
+}
+
+.a,.b{
+	border: 1px solid black;
+}
+
+.a {
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+	font-size: 0;
+}
+
+.green-block {
+	background: green;
+}
+
+.blue-block {
+	background: blue;
+}
+
+.b {
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+	font-size: 0;
+}
+
+.orange-block {
+	text-align: right;
+	background: orange;
+}
+
+.gray-block {
+	background: gray;
+
+}
+
+.black-block {
+	background: black;
+}
